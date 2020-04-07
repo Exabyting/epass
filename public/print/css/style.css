@@ -1,0 +1,454 @@
+/***** Google fonts *****/
+@font-face {
+    font-family: 'vrinda';
+    font-weight: 400;
+    src: url('../fonts/vrinda/vrinda.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'vrinda';
+    font-weight: 600;
+    font-style: italic;
+    src: url('../fonts/vrinda/vrindab.ttf') format('truetype');
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-size: 29px;
+    font-family: 'vrinda', sans-serif;
+    background-color: #ffffff !important;
+}
+
+ul, ol {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+p {
+    padding: 0;
+    margin: 0;
+
+}
+
+/*** Fixed Height and Parent div flex ***/
+.verticalCenter {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+/***********css Animation*********/
+@media print {
+    .pagebreak {
+        clear: both;
+        page-break-after: always;
+    }
+
+}
+
+@page {
+    margin: 0;
+}
+
+.page-margin {
+    /*margin: 25px 25px;*/
+    /*padding: 50px 0 0 0;*/
+}
+
+.border-bottom {
+    border-color: #000000 !important;
+    display: inline-block;
+    line-height: 16px;
+}
+
+.border-top {
+    display: inline-block;
+    border-color: #000000 !important;
+}
+
+h1 .border-top {
+    line-height: 60px;
+}
+
+span.line-h1 {
+    line-height: 45px;
+}
+
+.dots {
+    border-bottom: dotted;
+    flex-grow: 1;
+    margin-left: 5px;
+}
+
+hr {
+    border-color: #000000 !important;
+}
+
+.top-right-page-1 {
+    width: 275px;
+}
+
+.top-right-page-1 p {
+    align-items: flex-end;
+    line-height: 18px;
+    padding: 10px 0;
+}
+
+ol.list-group li {
+    display: flex;
+    margin: 1px 0;
+    align-items: center;
+}
+
+ol.list-group li span.label {
+    font-weight: 600;
+}
+
+ol.list-group li span.dots {
+    line-height: 22px;
+    margin-left: 15px;
+}
+
+ol.list-group li span.serial {
+    width: 25px;
+    display: inline-block;
+    text-align: right;
+    padding: 0 5px 0 0;
+    border-right: 1px solid #000;
+    line-height: 10px;
+    margin: 0 15px 0 0;
+}
+
+table.table.table-bordered {
+    border: none;
+}
+
+table.table.table-four tr th,
+table.table.table-four tr td,
+table.table.table-three tr th,
+table.table.table-three tr td,
+table.table.table-two tr th,
+table.table.table-two tr td,
+table.table.table-one tr th,
+table.table.table-one tr td {
+    border-color: #000000 !important;
+}
+
+table.table.table-one tr th {
+    border-bottom-width: 1px !important;
+}
+
+table.table.table-one tr td:first-child,
+table.table.table-one tr th:first-child {
+    border-left-color: transparent !important;
+
+}
+
+table.table.table-one tr td:last-child,
+table.table.table-one tr th:last-child {
+    border-right-color: transparent !important;
+}
+
+table.table.table-one tbody tr td {
+    border-top-color: transparent !important;
+    border-bottom-color: transparent !important;
+}
+
+table.table.table-one tbody tr:last-child td {
+    border-bottom-color: #000000 !important;
+}
+
+table.table.table-two tbody tr th,
+table.table.table-two tr td,
+table.table.table-one tr td {
+    padding: 0 10px;
+    line-height: 36px;
+}
+
+table.table.table-three tr td:last-child,
+table.table.table-three tr th:first-child,
+table.table.table-two tr td:first-child,
+table.table.table-two tr td:last-child,
+table.table.table-two tr th:first-child,
+table.table.table-two tr th:last-child {
+    border-left-color: transparent !important;
+    border-right-color: transparent !important;
+}
+
+table.table.table-two tr th:nth-child(2),
+table.table.table-two tr td:nth-child(2) {
+    border-left-color: transparent !important;
+    /*border-right-color: transparent !important;*/
+
+}
+
+table.table.table-two tr th {
+    border-bottom-width: 1px !important;
+    min-width: 45px;
+    padding: 0;
+    line-height: 36px;
+}
+
+table.table.table-two tr td:last-child,
+table.table.table-two tr th:last-child {
+    min-width: 150px;
+    max-width: 150px;
+}
+
+table.table.table-two tbody tr th {
+    width: 46px;
+    text-align: right;
+}
+
+.signature-img,
+table.table tbody td .signature-img {
+    margin: auto;
+    max-height: 33px;
+    max-width: 90px;
+}
+
+table.table.table-two tbody tr th {
+    padding: 0 !important;
+    font-size: 80%
+}
+
+table.table.table-two tbody tr td {
+    padding: 0 3px !important;
+}
+
+table.table.table-two tbody tr td:nth-child(2) {
+    font-size: 80%
+}
+
+table.table.table-two tr td:last-child {
+    line-height: 18px;
+    align-items: center;
+    vertical-align: middle;
+    font-size: 70%;
+}
+
+table.table.table-three {
+    margin-top: -16px;
+}
+
+table.table.table-three tbody {
+}
+
+table.table.table-three tbody tr {
+    display: flex;
+}
+
+table.table.table-three tbody tr th,
+table.table.table-three tbody tr td {
+    border-bottom-color: transparent !important;
+}
+
+table.table.table-three tbody tr th {
+    padding: 0 !important;
+    font-size: 80%;
+    width: 40px;
+    max-width: 45px;
+    text-align: right;
+    flex: 1;
+}
+
+table.table.table-three tbody tr th,
+table.table.table-three tbody tr td {
+    font-size: 75%;
+    line-height: 36px;
+    padding: 0 5px;
+}
+
+table.table.table-three tbody tr td {
+    flex: 6;
+    padding: 0 2px 0 5px;
+    display: flex;
+}
+
+table.table.table-three tbody tr td span {
+    vertical-align: top;
+    width: 100%;
+    line-height: 24px;
+}
+
+table.table.table-three tbody tr:last-child th,
+table.table.table-three tbody tr:last-child td {
+    border-bottom-color: #000000 !important;
+}
+
+table.table.table-three tbody tr td:nth-child(2) {
+    border-right-color: transparent !important;
+    border-left-color: transparent !important;
+    flex: 4;
+}
+
+table.table.table-three tbody tr td .img {
+    float: right;
+    border: 1px solid #000000;
+    padding: 3px;
+    margin: 2px 0;
+    display: inline-block;
+    overflow: hidden;
+    position: relative;
+    min-width: 65px;
+}
+
+p.footer-text {
+    line-height: 16px;
+    font-size: 20px;
+}
+
+.cmt10 {
+    margin-top: -10px;
+}
+
+h2.page-title-1 {
+    line-height: 30px;
+}
+
+/** Table four **/
+
+table.table.table-four tr th {
+    border-bottom-width: 1px !important;
+    vertical-align: top;
+    min-width: 95px;
+    line-height: 34px;
+}
+
+table.table.table-four tbody tr td {
+    line-height: 30px;
+}
+
+table.table.table-four tr td:first-child,
+table.table.table-four tr th:first-child {
+    border-left-color: transparent !important;
+
+}
+
+table.table.table-four tr td:last-child,
+table.table.table-four tr th:last-child {
+    border-right-color: transparent !important;
+}
+
+table.table.table-four tbody tr td {
+    border-top-color: transparent !important;
+    border-bottom-color: transparent !important;
+    height: 100px;
+}
+
+table.table.table-four tbody tr:last-child td {
+    border-bottom-color: #000000 !important;
+}
+
+table.table.table-four tr th {
+    padding: 0 10px;
+    line-height: 30px;
+    font-size: 90%;
+}
+
+table.table.table-four tbody tr td {
+    padding: 5px 10px;
+    line-height: 22px;
+}
+
+p.p-lineheight {
+    line-height: 32px;
+}
+
+.mh-100 {
+    height: 100px;
+    min-height: 100px;
+    overflow: hidden;
+}
+.img1 {
+    border: 1px solid #000;
+    display: inline-block;
+    margin: 0 0 2px 0;
+    height: 42px;
+    width: 63px;
+}
+.img1.blank {
+    margin: 0 0 -12px 0;
+}
+.img1 img {
+    max-height: 31px;
+}
+.lineheight-098 {
+    line-height: 25px;
+}
+.img-four {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+/**Start**/
+.border-bottom-dash {
+    border-bottom: 1px dashed #000000 !important;
+}
+
+h3.f-37 {
+    font-size: 37px;
+    font-weight: 300;
+}
+
+
+.page_extra_fellUp_by_ministry {
+    font-weight: 300 !important;
+}
+.page_extra_fellUp_by_ministry li span.serial {
+    position: relative;
+    padding-right: 5px;
+    width: 29px;
+    display: inline-block;
+    text-align: right;
+}
+
+.page_extra_fellUp_by_ministry li span.serial.blank:after {
+    display: none;
+}
+
+.page_extra_fellUp_by_ministry img.signature {
+    max-width: 190px;
+    max-height: 80px;
+}
+
+.page_extra_fellUp_by_ministry ol.list-group .value{
+    padding-left: 10px;
+}
+.page_extra_fellUp_by_ministry ol.list-group li span{
+    font-weight: 300;
+}
+.page_extra_fellUp_by_ministry ol.list-group {}
+.page_extra_fellUp_by_ministry ol.list-group li {
+    font-weight: 300 !important;
+    font-size: 22px;
+    align-items: baseline;
+}
+.page_extra_fellUp_by_ministry ul li {
+    display: block;
+    line-height: 18px;
+    margin-bottom: 10px;
+    font-weight: 300 !important;
+    font-size: 22px;
+
+}
+
+.page_extra_fellUp_by_ministry ul li span.t_label {
+    display: inline-block;
+    transform: translate(0, 2px);
+    background: #fff;
+    z-index: 99999;
+    padding: 0 10px 0 0;
+    line-height: 26px;
+}
+
+.min-width-260 {
+    min-width: 260px;
+}
+.min-h-550{
+    min-height: 550px;
+}
+
+

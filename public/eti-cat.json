@@ -1,0 +1,1628 @@
+[
+ {
+   "name": "কাগজ অ৪",
+   "type": "স্টেশনারি",
+   "unit": "ream",
+   "quantity": 100
+ },
+ {
+   "name": "কাগজ খবমধষ",
+   "type": "স্টেশনারি",
+   "unit": "ream",
+   "quantity": 100
+ },
+ {
+   "name": "কর্নফুলী",
+   "type": "স্টেশনারি",
+   "unit": "ream",
+   "quantity": 100
+ },
+ {
+   "name": "ডিমাই/ কাগজ-১২০ জএিসএম",
+   "type": "স্টেশনারি",
+   "unit": "ream",
+   "quantity": 100
+ },
+ {
+   "name": "রাইটিং প্যাড",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "স্লিপ প্যাড/এ্যাডহসেভি প্যাড",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "প্রশিক্ষণ প্যাড",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "ক্লিপ ফাইল",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "নোট শীট",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "রেজিষ্টার",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "ক্যাশ রেজিষ্টার",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "ফাইল কাভার",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "ফাইল বোর্ড",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "ছোট খাম",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "বড় খাম",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "মাঝারী  খাম",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "প্লাষ্টকি ফোল্ডার",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "ফোল্ডার",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "পেন্সিল২ন/৩ন",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "বলপেন কাল",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "বলপেন নীল",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "বলপেন লাল",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "পাইলট কলম",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "ংরমহধঃঁৎব ঢ়বহ",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "ঃবীঃ সধৎশবৎ",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "বোর্ড মার্কার",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "রাবার",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "সার্পনার",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "জেমস ক্লিপ",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "বড় স্ট্যাপ্লার",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "মাঝারী স্ট্যাপ্লার",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "ছোট স্ট্যাপ্লার",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "স্ট্যাপ্লার পিন বড়",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "স্ট্যাপ্লার পিন মাঝারী",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "স্ট্যাপ্লার পিন ছোট",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "পেপার ওয়েট",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "স্কেল",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "পাঞ্চ মেশিন (ডাবল)",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "পাঞ্চ মেশিন (সঙ্গিলে)",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "পিন রিমোভার",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "চাকুু/ছুির",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "ক্যালকুলেটর",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "এন্টিকাটার",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "কাচি",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "বোর্ড পিন",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "ক্যালেন্ডার স্ট্যান্ড",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "টিস্যু স্ট্যান্ড",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "ক্যালেন্ডার বড়",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "ক্যালেন্ডার ছোট",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "ডেক্স  ক্যালেন্ডার",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "স্কচটেপ",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "গাম টিউব",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "সীল অটো",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "স্টিক গাম",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "সীল সাধারন",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "সীল প্যাড",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "বক্স টিস্যু",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "ডাস্টার",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "টয়লেট টিস্যু",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "টেবিল টিস্যু",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "সাবান বড়",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "সাবান মিনি",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "হ্যান্ডওয়াস",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "হারপিক /ঠরপংড়ষ",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "ভিম লিকুইড",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "ভিম পাউডার",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "এয়ার ফ্রেশনার",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "এরোসল",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "ওডোনীল",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "ট্যাগ সুতা",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "লট সুতা",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "ভ্রমর/ রিমোট কলিং বেল",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "পেন্সিল ব্যাটারী/ মিনি ব্যাটারী",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "৫া  নধঃঃবৎু/৯া নধঃঃবৎু",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "গাড়ীর ব্যাটারী/ওচঝ ব্যাটারী",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "কলিং বেল",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "পেনড্র্ইাভ",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "ব্ল্যাঙ্ক সিডি/ব্ল্যাঙ্ক ডিভিডি",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "মাউস",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "মাউস প্যাড",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "কি বোর্ড",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "এন্টি ভাইরাস",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "গ্লাস ক্লিনার ব্রাশ",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "ফ্লোর ব্রাশ",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "কমড ব্রাশ",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "ড্রাই মোভিং ব্রাশ",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "বেসিন ব্রাশ",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "ফুলের ঝাড়–",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "শলার ঝাড়–",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "গ্লাস ক্লিনার লিকুইড",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "টাইলস ক্লিনার/ফ্লো রক্লিনার",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "মোভ সুতা",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "বড় বাস্কেট",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "ছোট বাস্কেট",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "প্যাডেল ডাস্টবিন",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "গামছা",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "কারসন্টে",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "টস্যিু বক্স হোল্ডার",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "পালকরে ডাস্টার",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "ময়লার পলব্যিাগ",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "কলংি বলেরে ব্যাটারী (ছোট)",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "ভমিবার",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "ওয়ান টাইম প্লাস্টকি কাপ",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "রুম অটো স্প্রে",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "হ্যান্ড গ্লাভস",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "মাস্ক",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "টুপি",
+   "type": "স্টেশনারি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "ফুল প্লেট (মুন œুনিপই)",
+   "type": "কোকারজি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "ফুল প্লেট (প্যারাগন) মনোগ্রাম",
+   "type": "কোকারজি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "ফুল প্লেট (শাইনপুকুর)",
+   "type": "কোকারজি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "হাফ প্লেট (মুন্নু নিপই)",
+   "type": "কোকারজি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "হাফ প্লেট (প্যারাগন) মনোগ্রাম",
+   "type": "কোকারজি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "হাফ প্লেট(শাইনপুকুর)",
+   "type": "কোকারজি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "ফুল বাটি (মুন্নুনিপই)",
+   "type": "কোকারজি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "ফুল বাটি(প্যারাগন) মনোগ্রাম",
+   "type": "কোকারজি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "ফুল বাটি (শাইনপুকুর)",
+   "type": "কোকারজি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "রাইস ডিস (মুন œুনিপই)",
+   "type": "কোকারজি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "কারিবাটি (শাইনপুকুর)",
+   "type": "কোকারজি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "কারিবাটি (মুন œুনিপই)",
+   "type": "কোকারজি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "কারিবাটি(প্যারাগন)",
+   "type": "কোকারজি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "পিরিজ (শাইনপুকুর)",
+   "type": "কোকারজি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "পিরিজ(মুন্নু নিপই)",
+   "type": "কোকারজি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "পিরিজ (প্যারাগন)",
+   "type": "কোকারজি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "কাপ (শাইনপুকুর)",
+   "type": "কোকারজি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "কাপ (মুন্নু নপ্রিই)",
+   "type": "কোকারজি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "কাপ (প্যারাগন)",
+   "type": "কোকারজি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "রাইছ চামচ",
+   "type": "কোকারজি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "কারি চামচ",
+   "type": "কোকারজি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "টেবিল চামচ",
+   "type": "কোকারজি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "গোল চামচ",
+   "type": "কোকারজি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "কাটা চামচ",
+   "type": "কোকারজি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "নাইফ",
+   "type": "কোকারজি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "চা চামচ",
+   "type": "কোকারজি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "চিমটা",
+   "type": "কোকারজি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "ট্রে",
+   "type": "কোকারজি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "টিপট",
+   "type": "কোকারজি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "মিল্ক পট",
+   "type": "কোকারজি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "সুগারপট",
+   "type": "কোকারজি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "টিহটপট",
+   "type": "কোকারজি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "মাইক্রো ওয়েব ওভেন",
+   "type": "কোকারজি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "বড় পাতিল (ভাত)",
+   "type": "কোকারজি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "বড় পাতিল (তরকারি)",
+   "type": "কোকারজি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "বড় পাতিল (ডাল)",
+   "type": "কোকারজি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "মাঝারি পাতিল (ভাত)",
+   "type": "কোকারজি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "মাঝারি পাতিল (তরকারি)",
+   "type": "কোকারজি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "মাঝারি পাতিল (ডাল)",
+   "type": "কোকারজি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "বড় তাওয়া",
+   "type": "কোকারজি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "কড়াই (তরকারি)",
+   "type": "কোকারজি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "কড়াই (ভাজি)",
+   "type": "কোকারজি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "ডালাই কড়াই",
+   "type": "কোকারজি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "চপিং বোর্ড",
+   "type": "কোকারজি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "জগ (প্লাষ্টিক)",
+   "type": "কোকারজি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "গ্লাস",
+   "type": "কোকারজি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "ঝুড়িবড়",
+   "type": "কোকারজি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "বাসকেট (প্লাস্টিক )",
+   "type": "কোকারজি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "বাসকেট (ড্রাম ময়লার)",
+   "type": "কোকারজি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "ডাস্ট প্যান (প্লাস্টিক)",
+   "type": "কোকারজি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "ডেস্কটপ কম্পিউটার",
+   "type": "যন্ত্রপাতি ও আনুষংগকি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "ল্যাপটপ কম্পিউটার (ফবষষ",
+   "type": "যন্ত্রপাতি ও আনুষংগকি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "ল্যাপটপকম্পিউটার(ী হড়ঃব)",
+   "type": "যন্ত্রপাতি ও আনুষংগকি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "ল্যাপটপ(ফবষষ)ওহংঢ়রৎধঃরড়হ -০২",
+   "type": "যন্ত্রপাতি ও আনুষংগকি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "ল্যাপটপ(ফবষষ)পড়ৎর-ররর -০৫",
+   "type": "যন্ত্রপাতি ও আনুষংগকি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "ল্যাপটপ কম্পিউটার (সংর)",
+   "type": "যন্ত্রপাতি ও আনুষংগকি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "কম্পিউটার নেটওয়ার্ক মেশিন",
+   "type": "যন্ত্রপাতি ও আনুষংগকি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "মনিটর",
+   "type": "যন্ত্রপাতি ও আনুষংগকি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "ইউপিএস",
+   "type": "যন্ত্রপাতি ও আনুষংগকি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "আইপিএস",
+   "type": "যন্ত্রপাতি ও আনুষংগকি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "ওয়েব ক্যাম",
+   "type": "যন্ত্রপাতি ও আনুষংগকি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "লেজার প্রিন্টার",
+   "type": "যন্ত্রপাতি ও আনুষংগকি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "ঐঢ় লেজার প্রিন্টার",
+   "type": "যন্ত্রপাতি ও আনুষংগকি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "কালার লেজার প্রিন্টার",
+   "type": "যন্ত্রপাতি ও আনুষংগকি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "ফটোকপিয়ার (পিপি)",
+   "type": "যন্ত্রপাতি ও আনুষংগকি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "স্ক্যানার",
+   "type": "যন্ত্রপাতি ও আনুষংগকি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "ফ্যাক্স মেশিন",
+   "type": "যন্ত্রপাতি ও আনুষংগকি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "ভয়েস রেকর্ডার",
+   "type": "যন্ত্রপাতি ও আনুষংগকি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "স্লাইড প্রজেকটর",
+   "type": "যন্ত্রপাতি ও আনুষংগকি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "ভিডিও প্রজেকটর",
+   "type": "যন্ত্রপাতি ও আনুষংগকি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "ওভারহে ডপ্রজেকটর",
+   "type": "যন্ত্রপাতি ও আনুষংগকি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "মাল্টিমিডিয় াপ্রজেকটর",
+   "type": "যন্ত্রপাতি ও আনুষংগকি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "ইন্টারএকটিভ ফ্লাট প্যানেল",
+   "type": "যন্ত্রপাতি ও আনুষংগকি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "পি এ সিস্টেম/ সাউন্ড সিস্টেম",
+   "type": "যন্ত্রপাতি ও আনুষংগকি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "গরীবৎ অসঢ়ষরভরৎব",
+   "type": "যন্ত্রপাতি ও আনুষংগকি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "ঝড়ঁহফ ঝুংঃবস  ঢ়ড়বিৎ অসঢ়ষরভরৎব",
+   "type": "যন্ত্রপাতি ও আনুষংগকি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "ঝড়ঁহফ ঝুংঃবস ঝঢ়বধশবৎ",
+   "type": "যন্ত্রপাতি ও আনুষংগকি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "রিৎবষবংং গরপৎড়ঢ়যড়হব",
+   "type": "যন্ত্রপাতি ও আনুষংগকি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "রিৎবষবংং জবপবরাবৎ",
+   "type": "যন্ত্রপাতি ও আনুষংগকি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "ডরৎবষবংং জড়ঁঃবৎ",
+   "type": "যন্ত্রপাতি ও আনুষংগকি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "ঘবঃ ড়িৎশ ঝরিঃপয",
+   "type": "যন্ত্রপাতি ও আনুষংগকি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "ঘবঃ ড়িৎশ ভধপব ঢ়ষধঃব",
+   "type": "যন্ত্রপাতি ও আনুষংগকি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "ঘবঃ ড়িৎশ গড়ফঁষধৎ",
+   "type": "যন্ত্রপাতি ও আনুষংগকি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "ঐবধফ ঢ়যড়হব",
+   "type": "যন্ত্রপাতি ও আনুষংগকি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "ঢ়ড়পশবঃ গরপৎড়ঢ়যড়হব্ জবপবরাবৎ",
+   "type": "যন্ত্রপাতি ও আনুষংগকি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "ংঢ়বধশবৎ",
+   "type": "যন্ত্রপাতি ও আনুষংগকি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "ঞধনষব গরপ ংঃধহফ",
+   "type": "যন্ত্রপাতি ও আনুষংগকি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "ভিসিআর",
+   "type": "যন্ত্রপাতি ও আনুষংগকি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "ইন্ট্রারনেট মডেম",
+   "type": "যন্ত্রপাতি ও আনুষংগকি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "ইন্টারকম সিস্টেম  ইউনিট",
+   "type": "যন্ত্রপাতি ও আনুষংগকি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "ইন্টারকম সেট",
+   "type": "যন্ত্রপাতি ও আনুষংগকি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "টেলিভিশন",
+   "type": "যন্ত্রপাতি ও আনুষংগকি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "মাইক্রোফোন",
+   "type": "যন্ত্রপাতি ও আনুষংগকি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "মাইক্রোফোন সিস্টেম",
+   "type": "যন্ত্রপাতি ও আনুষংগকি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "রিমোট প্রেজেন্টার",
+   "type": "যন্ত্রপাতি ও আনুষংগকি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "প্রজেকটর স্ক্রিন",
+   "type": "যন্ত্রপাতি ও আনুষংগকি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "সার্ভার মেশিন",
+   "type": "যন্ত্রপাতি ও আনুষংগকি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "ভোল্টেজ স্ট্যাবিলাইজার",
+   "type": "যন্ত্রপাতি ও আনুষংগকি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "এয়ারকুলার/এসি",
+   "type": "যন্ত্রপাতি ও আনুষংগকি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "৩১টি ক্যাসেটটাইপ,০৭টি স্পিøটটাইপ",
+   "type": "যন্ত্রপাতি ও আনুষংগকি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "মুভি ক্যামেরা",
+   "type": "যন্ত্রপাতি ও আনুষংগকি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "স্টীল ক্যামেরা",
+   "type": "যন্ত্রপাতি ও আনুষংগকি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "পানির ফিল্টার",
+   "type": "যন্ত্রপাতি ও আনুষংগকি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "মাইক্রো ওয়েব ওভেন",
+   "type": "যন্ত্রপাতি ও আনুষংগকি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "স্ট্যান্ড ফ্যান",
+   "type": "যন্ত্রপাতি ও আনুষংগকি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "ওয়াল ফ্যান",
+   "type": "যন্ত্রপাতি ও আনুষংগকি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "সিলিং ফ্যান",
+   "type": "যন্ত্রপাতি ও আনুষংগকি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "পেপার কাটিং মেশিন",
+   "type": "যন্ত্রপাতি ও আনুষংগকি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "রেফ্রিজারেটর/ফ্রিজ",
+   "type": "যন্ত্রপাতি ও আনুষংগকি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "ডিপ ফ্রিজ",
+   "type": "যন্ত্রপাতি ও আনুষংগকি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "ব্ল্যান্ডার মেশিন",
+   "type": "যন্ত্রপাতি ও আনুষংগকি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "পাওয়ার জেনারেটর",
+   "type": "যন্ত্রপাতি ও আনুষংগকি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "টেলিফোন সেট",
+   "type": "যন্ত্রপাতি ও আনুষংগকি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "ঘড়ি",
+   "type": "যন্ত্রপাতি ও আনুষংগকি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "রুম হিটার",
+   "type": "যন্ত্রপাতি ও আনুষংগকি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "ভ্যাকুম ক্লিনার",
+   "type": "যন্ত্রপাতি ও আনুষংগকি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "ব্লাড পেসার মেশিন",
+   "type": "যন্ত্রপাতি ও আনুষংগকি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "ফাস্ট এইড বক্স",
+   "type": "যন্ত্রপাতি ও আনুষংগকি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "উরমরঃধষ পড়ষড়ৎ ফড়সব পধসবৎধ",
+   "type": "যন্ত্রপাতি ও আনুষংগকি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "ঈড়ষড়ৎ খঊউ সড়হরঃড়ৎ",
+   "type": "যন্ত্রপাতি ও আনুষংগকি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "২১.৫\" গড়হরঃড়ৎ",
+   "type": "যন্ত্রপাতি ও আনুষংগকি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "উরমরঃধষ ঠরফবড় জবপড়ৎফবৎ",
+   "type": "যন্ত্রপাতি ও আনুষংগকি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "২০ শি ঝড়ষধৎ ঢ়ধহবষ (৮০ঢ়পব)",
+   "type": "যন্ত্রপাতি ও আনুষংগকি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "ঋরৎব ঊীঃরহমঁরংযবৎ",
+   "type": "যন্ত্রপাতি ও আনুষংগকি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "২০.ঐ.চ.গড়ঃড়ৎ ঢ়ঁসঢ় (ধিঃবৎ ংঁঢ়ঢ়ষু)",
+   "type": "যন্ত্রপাতি ও আনুষংগকি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "৩ঐ.চ.গড়ঃড়ৎ ঢ়ঁসঢ় (ঝববি)",
+   "type": "যন্ত্রপাতি ও আনুষংগকি",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "হাতলবিহীন ভিজিটর চেয়ার",
+   "type": "আসবাবপত্র",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "রিভলভিং/মুভিং চেয়ার",
+   "type": "আসবাবপত্র",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "অটোবি চেয়ার (কালো)",
+   "type": "আসবাবপত্র",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "কাঠের কুশন চেয়ার (হাতলওয়ালা)",
+   "type": "আসবাবপত্র",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "কাঠের রয়েল টাইপ চেয়ার (লাল)",
+   "type": "আসবাবপত্র",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "কাঠের চেয়ার (এক্সিকউিটভি)",
+   "type": "আসবাবপত্র",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "অটোবি (এক্সিকউিটভি)চেয়ার",
+   "type": "আসবাবপত্র",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "ফুল সেক্রেটারিয়েট টবেলি",
+   "type": "আসবাবপত্র",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "হাফ সেক্রেটারিয়েট",
+   "type": "আসবাবপত্র",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "রিসিপশন টেবিল",
+   "type": "আসবাবপত্র",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "অটোবি (এক্সিকউিটভি)টেবিল",
+   "type": "আসবাবপত্র",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "অটোবি ছোট টেবিল",
+   "type": "আসবাবপত্র",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "অটোবি বড় টেবিল",
+   "type": "আসবাবপত্র",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "টি টেবিল",
+   "type": "আসবাবপত্র",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "হোয়াইট বোর্ড",
+   "type": "আসবাবপত্র",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "ডিসপ্লে বোর্ড (লাল)",
+   "type": "আসবাবপত্র",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "প্লাকার্ড বোর্ড( ফ্লিপ চার্ট)",
+   "type": "আসবাবপত্র",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "স্টীলের আলমারী",
+   "type": "আসবাবপত্র",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "ডায়াস (পোডয়িাম)",
+   "type": "আসবাবপত্র",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "কাঠের ফাইলর্ যাক",
+   "type": "আসবাবপত্র",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "স্টীলের ফাইল কেবিনেট কাম আলমারী",
+   "type": "আসবাবপত্র",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "স্টীলের ফাইল কেবিনেট",
+   "type": "আসবাবপত্র",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "বুকসেলফ(স্টীলের/কাঠের)",
+   "type": "আসবাবপত্র",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "স্টোর র‌্যাক(স্টীলের)",
+   "type": "আসবাবপত্র",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "স্টীলের সো কেইস",
+   "type": "আসবাবপত্র",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "কম্পিউটার /প্রিন্টার ট্রলী/টিভি ট্রলী(সেলফ)",
+   "type": "আসবাবপত্র",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "পিয়ন টুল",
+   "type": "আসবাবপত্র",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "সোফা (সেট/সেটবিহীন)",
+   "type": "আসবাবপত্র",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "গ্লোব",
+   "type": "আসবাবপত্র",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "টেন্ডার বক্স",
+   "type": "আসবাবপত্র",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "তানিন চেয়ার",
+   "type": "আসবাবপত্র",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "টি টেবিল/ কিচেন টেবিল",
+   "type": "আসবাবপত্র",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "অনার বোর্ড",
+   "type": "আসবাবপত্র",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "কোট হ্যাঙ্গার",
+   "type": "আসবাবপত্র",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "টি ট্রলী",
+   "type": "আসবাবপত্র",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "এরো মার্ক বোর্ড",
+   "type": "আসবাবপত্র",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "মই",
+   "type": "আসবাবপত্র",
+   "unit": "piece",
+   "quantity": 100
+ },
+ {
+   "name": "টুল বক্স (হাতুড়ী, চিমটা, মিটার টেপ)",
+   "type": "আসবাবপত্র",
+   "unit": "piece",
+   "quantity": 100
+ }
+]
