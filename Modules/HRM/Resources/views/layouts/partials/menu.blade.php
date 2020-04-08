@@ -27,13 +27,6 @@
                                       data-i18n="nav.dash.main">@lang('hrm::department.left_menu_title')</span>
                             </a>
                         </li>
-                        <li class="{{ is_active_match('hrm/sections')}}">
-                            <a href="{{ url('hrm/sections') }}">
-                                <i class="la la-list-alt"></i>
-                                <span class="menu-title"
-                                      data-i18n="nav.dash.main">@lang('hrm::department.section_title')</span>
-                            </a>
-                        </li>
                         <li class="{{ is_active_match('hrm/designation') }}">
                             <a href="{{ url('hrm/designation') }}">
                                 <i class="la la-list-alt"></i>
@@ -41,26 +34,20 @@
                                       data-i18n="nav.dash.main">@lang('hrm::designation.left_menu_title')</span>
                             </a>
                         </li>
-                        <li class="{{ is_active_route('employee-officer.create') }}">
+{{--                        <li class="{{ is_active_route('employee-officer.create') }}">
                             <a href="{{route('employee-officer.create')}}">
                                 <i class="la la-gg-circle"></i>
 
                                 <span class="menu-title"
                                       data-i18n="nav.dash.main">@lang('hrm::employee.employee_officer')</span>
                             </a>
-                        </li>
+                        </li>--}}
                     @endif
                     <li class="{{ is_active_match('/change/password') }}">
                         <a href="{{url('/change/password')}}">
                             <i class="la la-key"></i>
                             <span class="menu-title"
                                   data-i18n="nav.dash.main">@lang('labels.change_password')</span>
-                        </a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="{{url('/lang/'. get_localization_config()->key)}}">
-                            <i class="la la-flag-o"></i><strong>ভাষা {{ get_localization_config()->value }} এ
-                                পরিবর্তন</strong>
                         </a>
                     </li>
                     @can('system-super-admin')
