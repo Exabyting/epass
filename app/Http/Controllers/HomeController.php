@@ -26,7 +26,8 @@ class HomeController extends Controller
      */
     public function index()
     {
-	    return redirect()->route('hrm');
+	    dd("hello");
+        return redirect()->route('hrm');
         // return view('home');
     }
     public function shutdown()
