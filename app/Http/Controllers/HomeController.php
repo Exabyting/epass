@@ -26,9 +26,7 @@ class HomeController extends Controller
      */
     public function index()
     {
-	    dd("hello");
         return redirect()->route('hrm');
-        // return view('home');
     }
     public function shutdown()
     {
@@ -39,9 +37,6 @@ class HomeController extends Controller
     {
 	    return redirect()->route('hrm');
 
-//        $notifications = $this->appNotificationService->getUnreadNotifications();
-//        $modules = array_keys(Module::all());
-//        return view('welcome', compact('modules','notifications'));
     }
 
 }

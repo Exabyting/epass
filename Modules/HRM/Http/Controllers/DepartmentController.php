@@ -33,7 +33,7 @@ class DepartmentController extends Controller {
 		$response = $this->departmentService->storeDepartment( $request->all() );
 		Session::flash( 'message', $response->getContent() );
 
-		return redirect()->route( 'department.create' );
+		return redirect()->route( 'department.index' );
 
 	}
 
@@ -56,8 +56,8 @@ class DepartmentController extends Controller {
 	public function update( StoreDepartmentRequest $request, $id ) {
 		$response = $this->departmentService->updateDepartment( $request->all(), $id );
 		Session::flash( 'message', $response->getContent() );
-
-		return redirect()->route( 'department.edit', $response->getId() );
+        return redirect()->route('department.index');
+		//return redirect()->route( 'department.edit', $response->getId() );
 	}
 
 	public function destroy($id) {
