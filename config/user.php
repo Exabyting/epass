@@ -3,13 +3,11 @@
 return [
     'types' => [
         'EMPLOYEE' => 'Employee',
-        'TRAINEE' => 'Trainee',
+        'VISITOR' => 'Visitor',
     ],
     'status' => [
         'ACTIVE' => 'Active',
         'INACTIVE' => 'Inactive',
-//        'BLOCKED' => 'Blocked',
-//        'PENDING' => 'Pending'
     ],
     'defaultPassword' => '123123',
 ];

@@ -29,10 +29,7 @@
                                         <th scope="col">@lang('labels.id')</th>
                                         <th scope="col">@lang('labels.name')</th>
                                         <th scope="col">@lang('hrm::designation.designation')</th>
-{{--                                        <th scope="col">@lang('labels.gender')</th>--}}
                                         <th scope="col">@lang('hrm::department.department')</th>
-{{--                                        <th scope="col">@lang('labels.status')</th>--}}
-                                        <th scope="col">@lang('labels.tel')</th>
                                         <th scope="col">@lang('labels.mobile')</th>
                                         <th scope="col">@lang('labels.action')</th>
 
@@ -51,11 +48,8 @@
                                                 </th>
                                                 <td>{{$employee->first_name . " " . $employee->last_name}}</td>
                                                 <td>{{ ($employee->designation) ? $employee->designation->name : '' }}</td>
-{{--                                                <td>{{$employee->gender}}</td>--}}
                                                 <td>{{ isset($employee->department->name) ? $employee->department->name : ''}}</td>
-{{--                                                <td>{{$employee->status}}</td>--}}
-                                                <td>{{$employee->tel_office}}</td>
-                                                <td>{{$employee->mobile_one}}</td>
+                                                <td>{{$employee->mobile}}</td>
 
                                                 <td>
                                                     <button id="btnSearchDrop2" type="button" data-toggle="dropdown"
@@ -104,7 +98,6 @@
         $(document).ready(function () {
 
             let table = $('.employee-list').DataTable({
-                dom:"lBfrtip",
                 "columnDefs": [
                     {"orderable": false, "targets": 1}
                 ],

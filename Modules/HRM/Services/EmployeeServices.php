@@ -24,7 +24,6 @@ class EmployeeServices
 {
     use CrudTrait, FileTrait;
     private const EMPLOYEE_PROFILE_PHOTO_PATH = 'employee/';
-    private const EMPLOYEE_SIGNATURE_PHOTO_PATH = 'employee/signature/';
     private $employeeRepository;
     private $userService;
 
@@ -49,12 +48,6 @@ class EmployeeServices
             $data['photo'] = self::EMPLOYEE_PROFILE_PHOTO_PATH . $photoName;
         }
 
-        if (isset($data['signature'])) {
-            $signature = $data['signature'];
-            $signatureName = time() . md5_file($signature->getRealPath()) . '.' . $signature->guessExtension();
-            $signature->storeAs(self::EMPLOYEE_SIGNATURE_PHOTO_PATH, $signatureName, $this->disk);
-            $data['signature'] = self::EMPLOYEE_SIGNATURE_PHOTO_PATH . $signatureName;
-        }
 
         $generalInfo = $this->employeeRepository->save($data);
 
@@ -62,7 +55,7 @@ class EmployeeServices
             'name' => $data['first_name'] . ' ' . $data['last_name'],
             'username' => $data['employee_id'],
             'email' => $data['email'],
-            'mobile' => $data['mobile_one'],
+            'mobile' => $data['mobile'],
             'reference_table_id' => $generalInfo->id,
             'user_type' => config('user.types.EMPLOYEE'),
             'password' => Hash::make(config('user.defaultPassword')),
@@ -74,8 +67,9 @@ class EmployeeServices
         $user->roles()->sync(["2"]);  //Default HRM_ACCESS role
 
 
-        if(isset($data['employee-officer']) && is_array($data['employee-officer'])) {
+/*        if(isset($data['employee-officer']) && is_array($data['employee-officer'])) {
             $employee_officers = $data['employee-officer'];
+            dd($employee_officers);
             foreach ($employee_officers as $employee_officer) {
                 if ($employee_officer['officer_id'] != NULL) {
                     $employee_officer['employee_id'] = $generalInfo->id;
@@ -83,7 +77,7 @@ class EmployeeServices
                     $employeeOfficer->save();
                 }
             }
-        }
+        }*/
 
         return new DataResponse($generalInfo, $generalInfo['id'], 'General information added successfully');
     }

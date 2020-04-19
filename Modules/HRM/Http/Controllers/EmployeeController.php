@@ -49,7 +49,6 @@ class EmployeeController extends Controller
         $employeeTitles = $this->employeeService->getEmployeeTitles();
         $employee_id = isset($request->employee) ? $request->employee : '';
         $photoUrl = '';
-        $sections = [];
 
         return view('hrm::employee.create', compact(
                 'departments',
@@ -57,7 +56,6 @@ class EmployeeController extends Controller
                 'employee_id',
                 'employeeTitles',
                 'photoUrl',
-                'sections',
                 'employeeList'
             )
         );
@@ -84,16 +82,13 @@ class EmployeeController extends Controller
         $departments = $this->departmentService->getDepartments();
         $designations = $this->designationService->getDesignations();
         $employeeTitles = $this->employeeService->getEmployeeTitles();
-
         $employee = $this->employeeService->findOne($id, ['department']);
-
-        $sections = $employee->department ? $employee->department->sections->pluck('name', 'id')->toArray() : [];
         $photoUrl = (!empty($employee->photo)) ? 'employee-profile/' . $employee->photo : 'employee-profile/default.png';
 
         return view('hrm::employee.edit', compact(
             'departments', 'designations',
-            'employee', 'employeeTitles', 'employeeTrainingDuration',
-            'employeeSalaryScale', 'photoUrl', 'sections', 'employeeList'
+            'employee', 'employeeTitles',
+            'photoUrl', 'employeeList'
         ));
     }
 

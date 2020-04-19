@@ -100,7 +100,7 @@
         $(document).ready(function () {
 
             let table = $('.department-list').DataTable({
-                dom: "lBfrtip",
+                /*dom: "lBfrtip",*/
                 "columnDefs": [
                     {"orderable": false, "targets": 1}
                 ],

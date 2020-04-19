@@ -42,13 +42,6 @@
                 <div class="help-block">  {{ $errors->first('department_id') }}</div>
             @endif
         </div>
-
-        <div class="form-group {{ $errors->has('section_id') ? ' error' : '' }}">
-            {{ Form::label('section', trans('hrm::department.section_title')) }}
-            {{ Form::select('section_id',$sections, null, ['id' => 'section_id','placeholder' => trans('labels.select') ,'class' => 'form-control select']) }}
-            <div class="help-block"></div>
-        </div>
-
         <div class="form-group {{ $errors->has('designation_id') ? ' error' : '' }}">
             {{ Form::label('designation_id', trans('hrm::designation.designation'), ['class' => 'required']) }}
             {{ Form::select('designation_id', $designations,  null, ['placeholder' => trans('labels.select'), 'class' => 'form-control select', 'required' => 'required', 'data-validation-required-message'=>trans('labels.This field is required')]) }}
@@ -117,32 +110,11 @@
                 <div class="help-block"></div>
             </div>
         </div>
-
-        <div class="form-group {{ $errors->has('signature') ? ' error' : '' }}">
-            {{ Form::label('signature', 'Signature', ['class' => 'required']) }}
-            {!! Form::file('signature', ['class' => 'form-control' . ($errors->has('signature') ? ' is-invalid' : ''), 'accept' => '.png, .jpg, .jpeg']) !!}
-
-            @if ($errors->has('signature'))
-                <span class="invalid-feedback" role="alert">
-                    <strong>{{ $errors->first('signature') }}</strong>
-                </span>
-            @endif
-        </div>
-
-        <div class="form-group {{ $errors->has('mobile_one') ? ' error' : '' }}">
-            {{ Form::label('mobile_one', trans('labels.mobile'), ['class' => 'required']) }}
-            {{ Form::text('mobile_one', null, ['class' => 'form-control','placeholder' => '017XXXXXXXX','required' => 'required', 'data-validation-required-message'=>trans('labels.This field is required'),  'minlength' =>'11', 'data-validation-minlength-message'=>trans('labels.At least 11 characters'), 'maxlength' =>'13', 'data-validation-maxlength-message'=>'Enter maximum 13 digit',]) }}
+        <div class="form-group {{ $errors->has('mobile') ? ' error' : '' }}">
+            {{ Form::label('mobile', trans('labels.mobile'), ['class' => 'required']) }}
+            {{ Form::text('mobile', null, ['class' => 'form-control','placeholder' => '017XXXXXXXX','required' => 'required', 'data-validation-required-message'=>trans('labels.This field is required'),  'minlength' =>'11', 'data-validation-minlength-message'=>trans('labels.At least 11 characters'), 'maxlength' =>'13', 'data-validation-maxlength-message'=>'Enter maximum 13 digit',]) }}
             <div class="help-block"></div>
-            @foreach ($errors->get('mobile_one') as $message)
-                <div class="help-block">  {{ $message }}</div>
-            @endforeach
-        </div>
-
-        <div class="form-group {{ $errors->has('tel_office') ? ' error' : '' }}">
-            {{ Form::label('tel_office', trans('labels.tel_office')) }}
-            {{ Form::number('tel_office', null, ['class' => 'form-control', 'placeholder' => '02XXXXXXX', 'maxlength' =>'11', 'data-validation-maxlength-message'=>trans('labels.At least 11 characters')]) }}
-            <div class="help-block"></div>
-            @foreach ($errors->get('tel_office') as $message)
+            @foreach ($errors->get('mobile') as $message)
                 <div class="help-block">  {{ $message }}</div>
             @endforeach
         </div>
