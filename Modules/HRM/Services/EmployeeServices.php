@@ -108,12 +108,6 @@ class EmployeeServices
             $data['photo'] = self::EMPLOYEE_PROFILE_PHOTO_PATH . $photoName;
         }
 
-        if (isset($data['signature'])) {
-            $signature = $data['signature'];
-            $signatureName = time() . md5_file($signature->getRealPath()) . '.' . $signature->guessExtension();
-            $signature->storeAs(self::EMPLOYEE_SIGNATURE_PHOTO_PATH, $signatureName, $this->disk);
-            $data['signature'] = self::EMPLOYEE_SIGNATURE_PHOTO_PATH . $signatureName;
-        }
 
         if ($generalInfo->user) {
 
@@ -123,7 +117,7 @@ class EmployeeServices
                     'name' => $data['first_name'] . ' ' . $data['last_name'],
                     'username' => $data['employee_id'],
                     'email' => $data['email'],
-                    'mobile' => $data['mobile_one']
+                    'mobile' => $data['mobile']
                 ]
             );
         }

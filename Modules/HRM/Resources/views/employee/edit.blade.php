@@ -30,49 +30,6 @@
                 </div>
             </div>
         </div>
-        <div class="card">
-            <div class="card-header">
-                <h4>Employee's Officer</h4>
-            </div>
-            <div class="card-body">
-                <div class="table-responsive">
-                    <table class="table table-bordered zero-configuration">
-                        <thead>
-                        <tr style="text-align: center">
-                            <th width="35%">{{trans('hrm::appraisal.recipient')}}</th>
-                            <th width="35%">{{trans('hrm::appraisal.approved_by')}}</th>
-                            <th width="24%">{{trans('hrm::appraisal.start_date')}}</th>
-                            <th width="24%">{{trans('hrm::appraisal.end_date')}}</th>
-                            <th width="10%">{{trans('labels.action')}}</th>
-                        </tr>
-                        </thead>
-                        <tbody data-repeater-list="employee-officer">
-                        @foreach($employee->officers as $officer)
-                            <tr>
-                                <td width="50%">
-                                    {{$officer->iroOfficer->first_name}} {{$officer->iroOfficer->last_name}}
-                                </td>
-                                <td width="50%">
-                                    {{$officer->croOfficer->first_name}} {{$officer->croOfficer->last_name}}
-                                </td>
-                                <td width="24%">
-                                    {{$officer->start_date}}
-                                </td>
-                                <td width="24%">
-                                    {{$officer->end_date}}
-                                </td>
-                                <td>
-                                    @if(!$officer->is_complete)
-                                        <a href="{{route('employee-officer.edit', ['employeeOfficer' => $officer->id])}}">Edit</a>
-                                    @endif
-                                </td>
-                            </tr>
-                        @endforeach
-                        </tbody>
-                    </table>
-                </div>
-            </div>
-        </div>
     </div>
 @endsection
 @push('page-css')

@@ -43,22 +43,22 @@
                             </a>
                         </li>--}}
                     @endif
-                    <li class="{{ is_active_match('/change/password') }}">
+                   {{-- <li class="{{ is_active_match('/change/password') }}">
                         <a href="{{url('/change/password')}}">
                             <i class="la la-key"></i>
                             <span class="menu-title"
                                   data-i18n="nav.dash.main">@lang('labels.change_password')</span>
                         </a>
-                    </li>
+                    </li>--}}
                     @can('system-super-admin')
                     <!-- System User -->
                         {{--                        <li class=" nav-item">--}}
                         {{--                            <a href="javascript:;"><i class="la la-user"></i><span class="menu-title" data-i18n="nav.users.main">@lang('user-management.title')</span></a>--}}
                         {{--                            <ul class="menu-content">--}}
-                        <li class="{{ is_active_match('system/user') }}">
+                       {{-- <li class="{{ is_active_match('system/user') }}">
                             <a class="menu-item" href="{{'/system/user'}}" data-i18n="nav.users.user_profile"><i
                                     class="la la-users"></i>{{trans('labels.user')}}</a>
-                        </li>
+                        </li>--}}
                         <li class="{{ is_active_match('system-settings') }}">
                             <a class="menu-item" href="{{route('system-settings.index')}}"
                                data-i18n="nav.users.user_profile">

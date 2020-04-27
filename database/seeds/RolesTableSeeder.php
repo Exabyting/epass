@@ -44,7 +44,7 @@ class RolesTableSeeder extends Seeder
             3 =>
             array (
                 'id' => 4,
-                'name' => 'ROLE_ACR_REQUEST_ACCESS',
+                'name' => 'ROLE_OFFICER_REQUEST_ACCESS',
                 'description' => 'Can request for Officer',
                 'created_at' => NULL,
                 'updated_at' => NULL,
