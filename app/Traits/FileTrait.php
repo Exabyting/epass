@@ -13,7 +13,7 @@ use Illuminate\Support\Facades\Storage;
 
 trait FileTrait
 {
-    protected $disk = 'public';
+    protected $disk = 'internal';
 
     /**
      * Uplaod a file
