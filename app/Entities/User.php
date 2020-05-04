@@ -89,10 +89,6 @@ class User extends Authenticatable
         return false;
     }
 
-    /*public function employeeInfo()
-    {
-        return Employee::where('employee_id', $this->username)->first();
-    }*/
 
     public function employee()
     {

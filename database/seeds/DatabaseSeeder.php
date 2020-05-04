@@ -18,8 +18,6 @@ class DatabaseSeeder extends Seeder
         $this->call(RoleUserTableSeeder::class);
         $this->call(RolesTableSeeder::class);
         $this->call(UsersTableSeeder::class);
-        $this->call(NotificationTypesTableSeeder::class);
-        $this->call(NotificationsTableSeeder::class);
         $this->call(PasswordResetsTableSeeder::class);
         $this->call(AdminTableSeeder::class);
         $this->call(SystemConfigTableSeeder::class);

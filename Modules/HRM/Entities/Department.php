@@ -19,9 +19,4 @@ class Department extends Model
     {
         return $this->hasMany(Employee::class, 'department_id', 'id');
     }
-
-    public function sections()
-    {
-        return $this->hasMany(Section::class);
-    }
 }

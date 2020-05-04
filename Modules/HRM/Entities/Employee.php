@@ -49,7 +49,4 @@ class Employee extends Model {
             return null;
         }
 	}
-    public function officers(){
-        return $this->hasMany(EmployeeOfficer::class, 'employee_id', 'id');
-    }
 }
