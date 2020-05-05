@@ -13,13 +13,13 @@
                 </a>
                 <ul class="menu-content">
                     @if(auth()->user()->can('hrm-setting-access') || auth()->user()->can('system-super-admin'))
-                        <li class="{{ is_active_match('hrm/employee') }}">
+                       {{-- <li class="{{ is_active_match('hrm/employee') }}">
                             <a href="{{ url('hrm/employee') }}">
                                 <i class="la la-users"></i>
                                 <span class="menu-title"
                                       data-i18n="nav.dash.main">@lang('hrm::employee.menu_name')</span>
                             </a>
-                        </li>
+                        </li>--}}
                         <li class="{{ is_active_match('hrm/department')}}">
                             <a href="{{ url('hrm/department') }}">
                                 <i class="la la-list-alt"></i>
