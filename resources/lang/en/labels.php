@@ -29,7 +29,7 @@ return [
     'tel' => 'Telephone',
     'tel_office' => 'Telephone Office',
     'tel_home' => 'Telephone Home',
-    'user' => 'User',
+    'user' => 'User Role',
     'username' => 'Username',
     'password' => 'Password',
     'confirm_password' => 'Confirm Password',

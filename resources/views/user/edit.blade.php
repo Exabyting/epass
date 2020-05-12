@@ -32,7 +32,7 @@
                                             <label for="name" class="col-form-label required">{{ __('labels.name') }}</label>
                                             <input id="name" type="text"
                                                    class="form-control{{ $errors->has('name') ? ' is-invalid' : '' }}"
-                                                   name="name" value="{{ $user->name }}" required data-validation-required-message="{{trans('validation.required', ['attribute' => trans('labels.name')])}}" autofocus>
+                                                   name="name"  readonly value="{{ $user->name }}" required data-validation-required-message="{{trans('validation.required', ['attribute' => trans('labels.name')])}}" autofocus>
                                             <div class="help-block"></div>
                                             @if ($errors->has('name'))
                                                 <span class="invalid-feedback" role="alert">
@@ -48,7 +48,7 @@
                                                    class="col-form-label">{{ __('labels.email_address') }}</label>
                                             <input id="email" type="email"
                                                    class="form-control{{ $errors->has('email') ? ' is-invalid' : '' }}"
-                                                   name="email" value="{{ $user->email }}">
+                                                   name="email" readonly value="{{ $user->email }}">
                                             @if ($errors->has('email'))
                                                 <span class="invalid-feedback" role="alert"><strong>{{ $errors->first('email') }}</strong></span>
                                             @endif
@@ -63,7 +63,7 @@
                                                    class="col-form-label required">{{ __('labels.mobile') }}</label>
                                             <input id="mobile" type="text"
                                                    class="form-control{{ $errors->has('mobile') ? ' is-invalid' : '' }}"
-                                                   name="mobile" value="{{ $user->mobile }}" placeholder="01xxxxxxxxx" required data-validation-required-message="{{trans('validation.required', ['attribute' => trans('labels.mobile')])}}">
+                                                   name="mobile" readonly value="{{ $user->mobile }}" placeholder="01xxxxxxxxx" required data-validation-required-message="{{trans('validation.required', ['attribute' => trans('labels.mobile')])}}">
                                             <div class="help-block"></div>
                                             @if ($errors->has('mobile'))
                                                 <span class="invalid-feedback" role="alert"><strong>{{ $errors->first('mobile') }}</strong></span>
@@ -76,7 +76,7 @@
                                                    class="col-form-label required">{{ __('labels.username') }}</label>
                                             <input id="username" type="text"
                                                    class="form-control{{ $errors->has('username') ? ' is-invalid' : '' }}"
-                                                   name="username" value="{{ $user->username }}" required data-validation-required-message="{{trans('validation.required', ['attribute' => trans('labels.username')])}}">
+                                                   name="username" readonly value="{{ $user->username }}" required data-validation-required-message="{{trans('validation.required', ['attribute' => trans('labels.username')])}}">
                                             <div class="help-block"></div>
                                             @if ($errors->has('username'))
                                                 <span class="invalid-feedback" role="alert"><strong>{{ $errors->first('username') }}</strong></span>

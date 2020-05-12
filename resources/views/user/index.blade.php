@@ -53,19 +53,7 @@
                                               <span aria-labelledby="btnSearchDrop2" class="dropdown-menu mt-1 dropdown-menu-right">
                                                 <a href="{{URL::to( '/system/user/'.$user->id)}}" class="dropdown-item"><i class="ft-eye"></i> {{trans('labels.details')}}</a>
                                                  <div class="dropdown-divider"></div>
-                                                  <a href="{{URL::to( '/system/user/'.$user->id.'/edit')}}" class="dropdown-item"><i class="ft-edit-2"></i> {{trans('labels.edit')}}</a>
-{{--                                                <div class="dropdown-divider"></div>--}}
-{{--                                                  {!! Form::open([--}}
-{{--                                                  'method'=>'DELETE',--}}
-{{--                                                  'url' => [ '/system/user', $user->id],--}}
-{{--                                                  'style' => 'display:inline'--}}
-{{--                                                  ]) !!}--}}
-{{--                                                  {!! Form::button('<i class="ft-trash"></i> '.trans('labels.delete'), array(--}}
-{{--                                                  'type' => 'submit',--}}
-{{--                                                  'class' => 'dropdown-item',--}}
-{{--                                                  'title' => 'Delete the user',--}}
-{{--                                                  'onclick'=>'return confirm("Confirm delete?")',--}}
-{{--                                                  )) !!}--}}
+                                                  <a href="{{URL::to( '/system/user/'.$user->id.'/edit')}}" class="dropdown-item"><i class="ft-edit-2"></i>Role Add/Edit</a>
                                                   {!! Form::close() !!}
                                               </span>
                                             </span>
